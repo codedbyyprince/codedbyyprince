@@ -1,22 +1,22 @@
-# 💫 About Me:
+# 💫 About Me
 
-🔭 **I’m currently working on**  
-Wrapping up a real‑world Fraud Detection model (with hand‑crafted features that actually matter) — then moving fast into Deep Learning.
+🔭 **Currently working on**  
+A real-world fraud detection project built for actual signal, not just notebook accuracy — with hand-crafted features that pull their weight. After that, I’m moving into deep learning.
 
-👯 **I’m looking to collaborate on**  
-Entry‑level ML internships or junior roles. I build things that work, not just notebooks.
+👯 **Open to collaborating on**  
+Entry-level ML internships and junior roles. I build projects that solve problems, not projects that just look busy.
 
-🤝 **I’m looking for help with**  
-Getting my first ML internship — advice, referrals, or a chance to prove myself.
+🤝 **Looking for help with**  
+Landing my first ML internship — feedback, referrals, or a shot to prove myself on real work.
 
-🌱 **I’m currently learning**  
-The missing ML theory (the 20% that fixes 80% of mistakes) before diving into Deep Learning.
+🌱 **Currently learning**  
+The part of ML that actually changes results: the theory, tradeoffs, and mistakes people skip before jumping into deep learning.
 
 💬 **Ask me about**  
-Python, Scikit-Learn, feature engineering, and how a 17‑year‑old self‑taught builder ships models that work on real data.
+Python, scikit-learn, feature engineering, and how a self-taught builder turns messy data into something useful.
 
 ⚡ **Fun fact**  
-When I’m not coding, I build intricate 3D paper craft models by hand — patience and precision in both art and ML.
+When I am not coding, I build detailed 3D paper craft models by hand. Same mindset: patience, precision, and obsession with the details.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/prince-nagda-43655634b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Prince_Nagda_30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princenagda35@gmail.com) 
 
