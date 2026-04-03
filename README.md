@@ -1,46 +1,50 @@
-# Hi there, I'm Prince! 👋 
+# Hi, I'm Prince Nagda 👋 
 
-### 🤖 Aspiring AI/ML/DL Engineer | ML Practitioner | 3D Modeler (Paper)
+### AI/ML Developer | Transitioning to Deep Learning | 3D Craft Enthusiast
 
-I’m a Machine Learning enthusiast moving into the world of **Deep Learning**. I don't just build models; I focus on creating tools that solve real-world problems with data-driven precision. Currently seeking **ML/AI Internships** where I can contribute to production-level intelligence.
+I’m a developer focused on building Machine Learning solutions that bridge the gap between "notebook code" and "real-world application." I specialize in creating robust predictive models and deploying them into production environments.
+
+---
+
+### 🚀 Featured Work
+
+#### 🛡️ [Fraud-Detector-ML](https://github.com/codedbyyprince/Fraud-Detector-ML)
+* **The Tech:** Scikit-Learn, Ensemble Learning, Flask, Hugging Face.
+* **The Impact:** Built a detection system using **real-world extractable features**. I didn't just use standard datasets; I focused on data points that can actually be captured in a live environment.
+* **The Win:** Implemented ensemble methods to maximize precision and minimize false negatives.
+
+#### 📈 [Diabetes Prediction System](https://github.com/codedbyyprince/DIabetes-prediction-ml)
+* A clean, end-to-end ML implementation focused on health-tech data processing and predictive accuracy.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **ML & Data** | `Scikit-Learn` • `XGBoost` • `Pandas` • `Matplotlib` • `Numpy` |
-| **Backend & Deployment** | `Flask` • `FastAPI` • `Render` • `Hugging Face` |
-| **Databases** | `Supabase` • `SQL (Basics)` |
-| **Currently Learning** | `Deep Learning` • `Neural Networks` • `PyTorch/TensorFlow` |
+**Core Machine Learning**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Deployment & Backend**
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+**Currently Learning**
+* **Deep Learning:** Exploring Neural Network architectures (CNNs, LSTMs).
+* **Advanced Deployment:** Scaling ML APIs for high-traffic environments.
 
 ---
 
-### 🚀 Featured Project: Real-World Fraud Assessment
-**Modern Fraud Detection with Ensemble Learning**
-* **The Problem:** Most fraud detectors use synthetic data. I built this using **real-world extractable features** to ensure practical utility.
-* **The Solution:** Developed a pipeline testing 4 different models.
-* **The "Standout" Factor:** Implemented **Ensemble Methods** to reduce false negatives and improve model robustness.
-* **Deployment:** Fully functional API deployed via **Flask** on **Hugging Face Spaces**.
-
-> [**View Project Repository**](#) ---
-
-### 📊 GitHub Stats & Activity
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+### 📊 My Growth Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyyprince&show_icons=true&theme=radical&hide_border=true" alt="Prince's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyyprince&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="300" />
+</p>
 
 ---
 
-### 🧩 Beyond the Code
-When I’m not tuning hyperparameters, I’m building **complex 3D paper craft figures**. 
-* **Why it matters:** Designing intricate physical models requires the same spatial logic and meticulous debugging needed for complex Deep Learning architectures.
+### 🧩 Beyond the Terminal
+When I'm not training models, I'm likely building **complex 3D paper craft figures**. It’s where my passion for architecture and extreme attention to detail comes to life—qualities I bring to every line of code I write.
 
----
-
-### 📫 Let's Connect!
-* **LinkedIn:** [Your Profile Link]
-* **Portfolio:** [Your Link]
-* **Email:** [Your Email]
-
-*“Turning raw data into real-world decisions, one epoch at a time.”*
+### 📫 Let's Talk AI/ML
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) * **Email:** [your-email@example.com](mailto:your-email@example.com) ---
+<p align="center">
+  <i>"Predicting the future by building it, one layer at a time."</i>
+</p>
