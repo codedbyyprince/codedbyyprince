@@ -1,50 +1,18 @@
-# Hi, I'm Prince Nagda 👋 
+# 💫 About Me:
+🔭 I’m currently working on<br>end-to-end Machine Learning solutions, including a live Fraud Detection system and FocusOS.<br><br>👯 I’m looking to collaborate on<br>open-source AI projects, predictive modeling, and real-world data science applications.<br><br>🤝 I’m looking for help with<br>advanced model deployment techniques and optimizing deep learning architectures for production.<br><br>🌱 I’m currently learning<br>Deep Learning (Neural Networks, CNNs, LSTMs) and scaling ML APIs for high-traffic environments.<br><br>💬 Ask me about<br>Python, Scikit-Learn, building predictive models, and bridging the gap between notebook code and real-world apps.<br><br>⚡ Fun fact<br>When I'm not training models, I build complex 3D paper craft figures—it requires the same extreme attention to detail as debugging neural architectures!
 
-### AI/ML Developer | Transitioning to Deep Learning | 3D Craft Enthusiast
 
-I’m a developer focused on building Machine Learning solutions that bridge the gap between "notebook code" and "real-world application." I specialize in creating robust predictive models and deploying them into production environments.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/prince-nagda-43655634b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Prince_Nagda_30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princenagda35@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codedbyyprince&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codedbyyprince&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyyprince&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🚀 Featured Work
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codedbyyprince&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-#### 🛡️ [Fraud-Detector-ML](https://github.com/codedbyyprince/Fraud-Detector-ML)
-* **The Tech:** Scikit-Learn, Ensemble Learning, Flask, Hugging Face.
-* **The Impact:** Built a detection system using **real-world extractable features**. I didn't just use standard datasets; I focused on data points that can actually be captured in a live environment.
-* **The Win:** Implemented ensemble methods to maximize precision and minimize false negatives.
-
-#### 📈 [Diabetes Prediction System](https://github.com/codedbyyprince/DIabetes-prediction-ml)
-* A clean, end-to-end ML implementation focused on health-tech data processing and predictive accuracy.
-
----
-
-### 🛠️ My Tech Stack
-
-**Core Machine Learning**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Deployment & Backend**
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-**Currently Learning**
-* **Deep Learning:** Exploring Neural Network architectures (CNNs, LSTMs).
-* **Advanced Deployment:** Scaling ML APIs for high-traffic environments.
-
----
-
-### 📊 My Growth Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyyprince&show_icons=true&theme=radical&hide_border=true" alt="Prince's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyyprince&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="300" />
-</p>
-
----
-
-### 🧩 Beyond the Terminal
-When I'm not training models, I'm likely building **complex 3D paper craft figures**. It’s where my passion for architecture and extreme attention to detail comes to life—qualities I bring to every line of code I write.
-
-### 📫 Let's Talk AI/ML
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) * **Email:** [your-email@example.com](mailto:your-email@example.com) ---
-<p align="center">
-  <i>"Predicting the future by building it, one layer at a time."</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
