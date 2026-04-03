@@ -1,6 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>end-to-end Machine Learning solutions, including a live Fraud Detection system and FocusOS.<br><br>👯 I’m looking to collaborate on<br>open-source AI projects, predictive modeling, and real-world data science applications.<br><br>🤝 I’m looking for help with<br>advanced model deployment techniques and optimizing deep learning architectures for production.<br><br>🌱 I’m currently learning<br>Deep Learning (Neural Networks, CNNs, LSTMs) and scaling ML APIs for high-traffic environments.<br><br>💬 Ask me about<br>Python, Scikit-Learn, building predictive models, and bridging the gap between notebook code and real-world apps.<br><br>⚡ Fun fact<br>When I'm not training models, I build complex 3D paper craft figures—it requires the same extreme attention to detail as debugging neural architectures!
 
+🔭 **I’m currently working on** <br>Building and deploying practical ML applications, including a live Fraud Detection model hosted on Hugging Face and a project called FocusOS.
+
+👯 **I’m looking to collaborate on** <br>Open-source machine learning projects, applied data science tasks, and freelance AI development.
+
+🤝 **I’m looking for help with** <br>Industry best practices for writing production-ready Python code and structuring robust ML pipelines.
+
+🌱 **I’m currently learning** <br>Deep learning fundamentals and the best ways to integrate predictive models with web applications.
+
+💬 **Ask me about** <br>Python, Scikit-Learn, data preprocessing, and taking a model from a Jupyter Notebook to a live deployment.
+
+⚡ **Fun fact** <br>I am entirely self-taught in ML deployment, figuring out the bridge between model training and live hosting through hands-on building!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/prince-nagda-43655634b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Prince_Nagda_30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princenagda35@gmail.com) 
