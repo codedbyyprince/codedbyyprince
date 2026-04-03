@@ -1,17 +1,22 @@
 # 💫 About Me:
 
-🔭 **I’m currently working on** <br>Building and deploying practical ML applications, including a live Fraud Detection model hosted on Hugging Face and a project called FocusOS.
+🔭 **I’m currently working on**  
+A production-ready Fraud Detection model with real-world feature extraction — designed to be deployed, not just a notebook demo.
 
-👯 **I’m looking to collaborate on** <br>Open-source machine learning projects, applied data science tasks, and freelance AI development.
+👯 **I’m looking to collaborate on**  
+Applied ML projects, fraud/anomaly detection work, or any data problem where models actually get used.
 
-🤝 **I’m looking for help with** <br>Industry best practices for writing production-ready Python code and structuring robust ML pipelines.
+🤝 **I’m looking for help with**  
+Learning industry-grade ML pipelines, MLOps basics, and what makes code “production-ready” outside of tutorials.
 
-🌱 **I’m currently learning** <br>Deep learning fundamentals and the best ways to integrate predictive models with web applications.
+🌱 **I’m currently learning**  
+Deep learning fundamentals and how to reliably serve models via APIs.
 
-💬 **Ask me about** <br>Python, Scikit-Learn, data preprocessing, and taking a model from a Jupyter Notebook to a live deployment.
+💬 **Ask me about**  
+Python, Scikit-Learn, feature engineering, and how a 17‑year‑old self‑taught builder ships models that work on real data.
 
-⚡ **Fun fact** <br>I am entirely self-taught in ML deployment, figuring out the bridge between model training and live hosting through hands-on building!
-
+⚡ **Fun fact**  
+I skipped the “focus on theory first” path — I built a fraud detection system that actually extracts real‑world features, then went back to learn why it works.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/prince-nagda-43655634b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Prince_Nagda_30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princenagda35@gmail.com) 
 
