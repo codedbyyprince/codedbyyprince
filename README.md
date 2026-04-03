@@ -1,22 +1,23 @@
 # 💫 About Me
 
 🔭 **Currently working on**  
-A real-world fraud detection project built for actual signal, not just notebook accuracy — with hand-crafted features that pull their weight. After that, I’m moving into deep learning.
+Strengthening ML fundamentals, improving real-world problem solving, and continuously expanding into deeper areas like deep learning.
 
 👯 **Open to collaborating on**  
-Entry-level ML internships and junior roles. I build projects that solve problems, not projects that just look busy.
+Entry-level ML internships and junior roles. I build projects that solve problems, not notebooks that just look busy.
 
 🤝 **Looking for help with**  
 Landing my first ML internship — feedback, referrals, or a shot to prove myself on real work.
 
 🌱 **Currently learning**  
-The part of ML that actually changes results: the theory, tradeoffs, and mistakes people skip before jumping into deep learning.
+ML theory, real-world tradeoffs, and the fundamentals behind building better models.
 
 💬 **Ask me about**  
-Python, scikit-learn, feature engineering, and how a self-taught builder turns messy data into something useful.
+Python, scikit-learn, feature engineering, and turning messy data into reliable models.
 
 ⚡ **Fun fact**  
-When I am not coding, I build detailed 3D paper craft models by hand. Same mindset: patience, precision, and obsession with the details.
+Outside coding, I build detailed 3D paper craft models — same mindset: patience, precision, and attention to detail.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/prince-nagda-43655634b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Prince_Nagda_30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princenagda35@gmail.com) 
 
