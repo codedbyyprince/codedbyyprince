@@ -33,10 +33,10 @@ Currently grinding competitive programming on Codeforces and deepening my GenAI 
 
 | Area | Status |
 |---|---|
-| 🤖 GenAI Engineering (RAG pipelines, LLM agents, intent detection) | `Ongoing` |
-| 🧠 ML Fundamentals (bias-variance, regularization, ensembles, stacking) | `Ongoing` |
+| 🤖 GenAI Engineering (LangChain, LangGraph, RAG, Agents, Tool Use) | `Ongoing` |
+| 🧠 Deep Learning (neural architectures, Keras, training pipelines) | `Ongoing` |
 | ⚔️ Competitive Programming — Codeforces Div 4 → Div 3 grind | `In Progress` |
-| 🌐 Full-stack ML apps (Flask + Docker + Hugging Face Spaces) | `Shipping` |
+| ✅ Classical ML (ensembles, stacking, feature engineering) | `Completed` |
 
 ---
 
@@ -57,13 +57,13 @@ prince = {
 
 ## 🏗️ Featured Projects
 
-### 🔍 FraudSense
+### 🔍 [FraudSense](https://github.com/codedbyyprince/Fraud-Assessment)
 Fraud detection on **588K transactions**. Stacking ensemble (RF + XGBoost + LightGBM), custom **Apex 1.0** confidence-penalization formula. Deliberately built without non-collectable Vesta features — production-deployable, not leaderboard-optimized. Dockerized and live on Hugging Face Spaces.
 
-### 🎬 MoviePicks
+### 🎬 [MoviePicks](https://github.com/codedbyyprince/personalized-movie-recommendation)
 Content-based movie recommender across **6,000+ TMDB titles**. Cosine similarity on dense embeddings, Supabase backend, deployed via Flask + Docker.
 
-### 🤖 AutoStream
+### 🤖 [AutoStream](https://github.com/codedbyyprince/lead-rag-intent-agent)
 AI sales agent built in **2 days**. LangChain + Gemini 2.5 Flash + RAG pipeline + intent detection + Supabase lead capture. The project that directly landed me my internship.
 
 ---
@@ -85,6 +85,7 @@ AI sales agent built in **2 days**. LangChain + Gemini 2.5 Flash + RAG pipeline 
 **GenAI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Backend & Deployment**
