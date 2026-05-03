@@ -1,15 +1,70 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prince%20Nagda&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Self-Taught%20ML%20Engineer%20%7C%2017%20y/o%20Building%20Real%20Things&descAlignY=55&descSize=16" />
+
+<!-- Typing animation -->
+<a href="https://princenagda.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+%26+GenAI+Engineer;XGBoost+%7C+LangChain+%7C+LLMs;End-to-end+pipelines%2C+actually+deployed;RAG+Pipelines+%7C+Ensembles+%7C+Agents" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-58A6FF?style=for-the-badge&logoColor=white)](https://princenagda.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-nagda-43655634b)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princenagda35@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Prince_Nagda_30)
+
+</div>
+
 ---
 
-## 🏗️ Projects
+## 🧠 Who Am I?
 
-### 🔍 [FraudSense](https://huggingface.co/spaces/codedbyyprince/fraudsense)
-Fraud detection on 588K transactions. Stacking ensemble (RF + XGBoost + LightGBM), custom Apex 1.0 confidence-penalization formula, Dockerized and live on Hugging Face Spaces. Built to be production-deployable — no non-collectable Vesta features, no leaderboard tricks.
+> **17-year-old self-taught ML engineer**, currently interning as a GenAI/AI-ML Engineer at a sales intelligence startup — no CS degree, no bootcamp, just a bias toward building real things under real constraints.
 
-### 🎬 [MoviePicks](https://huggingface.co/spaces/codedbyyprince/moviepicks)
-Content-based movie recommender across 6,000+ TMDB titles. Cosine similarity on dense embeddings, Supabase backend, deployed via Flask + Docker.
+I don't just run notebooks. I build end-to-end pipelines: messy raw data in, reliable predictions out, Dockerized and deployed. My focus is on fundamentals that actually matter — clean feature engineering, honest model evaluation, and knowing *why* something works before shipping it.
 
-### 🤖 [AutoStream](https://huggingface.co/spaces/codedbyyprince/autostream)
-AI sales agent built in 2 days. LangChain + Gemini 2.5 Flash + RAG pipeline + intent detection + Supabase lead capture. The project that landed me my internship.
+Currently grinding competitive programming on Codeforces and deepening my GenAI engineering knowledge while working on live problems at my internship.
+
+---
+
+## 🚀 What I'm Working On
+
+| Area | Status |
+|---|---|
+| 🤖 GenAI Engineering (RAG pipelines, LLM agents, intent detection) | `Ongoing` |
+| 🧠 ML Fundamentals (bias-variance, regularization, ensembles, stacking) | `Ongoing` |
+| ⚔️ Competitive Programming — Codeforces Div 4 → Div 3 grind | `In Progress` |
+| 🌐 Full-stack ML apps (Flask + Docker + Hugging Face Spaces) | `Shipping` |
+
+---
+
+## 💡 What Makes Me Different
+
+```python
+prince = {
+    "age": 17,
+    "type": "Self-taught",
+    "focus": "ML Engineering — end-to-end, not just notebooks",
+    "approach": "Build → Break → Understand → Improve",
+    "current_role": "GenAI/AI-ML Engineering Intern @ Rocketsteer GTM",
+    "superpower": "Patience + Precision (also builds 3D paper craft models 🗂️)",
+}
+```
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔍 FraudSense
+Fraud detection on **588K transactions**. Stacking ensemble (RF + XGBoost + LightGBM), custom **Apex 1.0** confidence-penalization formula. Deliberately built without non-collectable Vesta features — production-deployable, not leaderboard-optimized. Dockerized and live on Hugging Face Spaces.
+
+### 🎬 MoviePicks
+Content-based movie recommender across **6,000+ TMDB titles**. Cosine similarity on dense embeddings, Supabase backend, deployed via Flask + Docker.
+
+### 🤖 AutoStream
+AI sales agent built in **2 days**. LangChain + Gemini 2.5 Flash + RAG pipeline + intent detection + Supabase lead capture. The project that directly landed me my internship.
 
 ---
 
@@ -24,6 +79,8 @@ AI sales agent built in 2 days. LangChain + Gemini 2.5 Flash + RAG pipeline + in
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 
 **GenAI**
 
@@ -37,6 +94,7 @@ AI sales agent built in 2 days. LangChain + Gemini 2.5 Flash + RAG pipeline + in
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frontend & Tools**
 
@@ -63,7 +121,7 @@ AI sales agent built in 2 days. LangChain + Gemini 2.5 Flash + RAG pipeline + in
 
 ## 🤝 Let's Connect
 
-I'm an ML engineer who ships things. If you're working on something interesting, let's talk.
+I'm an ML engineer who ships things. If you're working on something interesting and need someone who learns fast, asks good questions, and doesn't hide behind theory — let's talk.
 
 <div align="center">
 
