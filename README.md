@@ -1,57 +1,15 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prince%20Nagda&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Self-Taught%20ML%20Engineer%20%7C%2017%20y/o%20Building%20Real%20Things&descAlignY=55&descSize=16" />
-
-<!-- Typing animation -->
-<a href="https://princenagda.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Python+%7C+scikit-learn+%7C+Keras;Building+models+that+actually+work;Open+to+ML+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-58A6FF?style=for-the-badge&logoColor=white)](https://princenagda.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-nagda-43655634b)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princenagda35@gmail.com)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Prince_Nagda_30)
-
-</div>
-
 ---
 
-## 🧠 Who Am I?
+## 🏗️ Projects
 
-> **17-year-old self-taught ML engineer** who started learning because I was curious — and never stopped.
+### 🔍 [FraudSense](https://huggingface.co/spaces/codedbyyprince/fraudsense)
+Fraud detection on 588K transactions. Stacking ensemble (RF + XGBoost + LightGBM), custom Apex 1.0 confidence-penalization formula, Dockerized and live on Hugging Face Spaces. Built to be production-deployable — no non-collectable Vesta features, no leaderboard tricks.
 
-I don't just run notebooks. I build end-to-end pipelines: messy raw data in, reliable predictions out, deployed and working in the real world. My focus is on the fundamentals that actually matter — clean feature engineering, honest model evaluation, and knowing *why* something works before shipping it.
+### 🎬 [MoviePicks](https://huggingface.co/spaces/codedbyyprince/moviepicks)
+Content-based movie recommender across 6,000+ TMDB titles. Cosine similarity on dense embeddings, Supabase backend, deployed via Flask + Docker.
 
-Currently deepening my knowledge in deep learning and actively looking for my **first ML internship** where I can contribute real value from day one.
-
----
-
-## 🚀 What I'm Working On
-
-| Area | Status |
-|---|---|
-| 🔬 ML Fundamentals (bias-variance, regularization, ensembles) | `Ongoing` |
-| 🧪 Deep Learning with Keras & neural network architectures | `In Progress` |
-| 🌐 Full-stack ML apps (Flask + Supabase + Render) | `Shipping` |
-| 📊 Real-world feature engineering on messy datasets | `Ongoing` |
-
----
-
-## 💡 What Makes Me Different
-
-```python
-prince = {
-    "age": 17,
-    "type": "Self-taught",
-    "focus": "ML Engineering (not just ML theory)",
-    "approach": "Build → Break → Understand → Improve",
-    "superpower": "Patience + Precision (also builds 3D paper craft models 🗂️)",
-    "looking_for": "ML Internship — give me a real problem, I'll ship a solution",
-}
-```
+### 🤖 [AutoStream](https://huggingface.co/spaces/codedbyyprince/autostream)
+AI sales agent built in 2 days. LangChain + Gemini 2.5 Flash + RAG pipeline + intent detection + Supabase lead capture. The project that landed me my internship.
 
 ---
 
@@ -61,19 +19,24 @@ prince = {
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+
+**GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Backend & Deployment**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frontend & Tools**
 
@@ -100,7 +63,7 @@ prince = {
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **ML internships** — remote or in-person. If you're working on something interesting and need someone who learns fast, ships things, and asks good questions, let's talk.
+I'm an ML engineer who ships things. If you're working on something interesting, let's talk.
 
 <div align="center">
 
