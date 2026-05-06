@@ -35,7 +35,6 @@ Currently grinding competitive programming on Codeforces and deepening my GenAI 
 |---|---|
 | 🤖 GenAI Engineering (LangChain, LangGraph, RAG, Agents, Tool Use) | `Ongoing` |
 | 🧠 Deep Learning (neural architectures, Keras, training pipelines) | `Ongoing` |
-| ⚔️ Competitive Programming — Codeforces Div 4 → Div 3 grind | `In Progress` |
 | ✅ Classical ML (ensembles, stacking, feature engineering) | `Completed` |
 
 ---
